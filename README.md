@@ -5,7 +5,7 @@ This repository contains coursework and projects completed as part of the CS-250
 
 The purpose of this repository is to serve as a portfolio of my work demonstrating Agile and Scrum concepts, SDLC stages, and software development best practices.
 
-1. Interpreting User Nees anad User Stories
+1. Interpreting User Needs anad User Stories
 I interpret user needs by working closely with stakeholders and translating their requirements into clear user stories. User stories help break down complex requirements into managebale pieces that focus on the user's perspective, which makes development more orgnaized and ensures the final product meets user expectations.
 
 2. My Approach to Developing Programs and Agile Practices
